@@ -13,7 +13,7 @@ export default function Home() {
     <div className="container">
       <div style={{ textAlign: 'center', padding: '60px 0 40px' }}>
         <h1>Welcome to ShopVerse</h1>
-        <p style={{ color: '#666', margin: '12px 0 24px' }}>Your one-stop shop for everything</p>
+        <p style={{ color: '#666', margin: '12px 0 24px' }}>Curated products, great prices, fast delivery</p>
         <Link to="/products" className="btn btn-primary">Browse Products</Link>
       </div>
 
